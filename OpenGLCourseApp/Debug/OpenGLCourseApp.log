@@ -1,0 +1,7 @@
+﻿  Camera.cpp
+  main.cpp
+c:\users\tom\source\repos\openglcourseapp\openglcourseapp\window.h(15): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\tom\source\repos\openglcourseapp\openglcourseapp\window.h(16): warning C4244: 'return': conversion from 'GLint' to 'GLfloat', possible loss of data
+c:\users\tom\source\repos\openglcourseapp\openglcourseapp\main.cpp(87): warning C4244: 'initializing': conversion from 'double' to 'GLfloat', possible loss of data
+  Generating Code...
+  OpenGLCourseApp.vcxproj -> C:\Users\Tom\source\repos\OpenGLCourseApp\Debug\OpenGLCourseApp.exe
